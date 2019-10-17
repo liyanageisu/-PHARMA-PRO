@@ -19,11 +19,12 @@
 <head>
 	<title>Add Supplier</title>
 	<link rel="stylesheet" type="text/css" href="../css/addSupplier.css">
+	
 </head>
 <body>
 	<div class="addSupplier">
 	<form  method="post">
-		<img src="../img/pharmacist.png">
+		
 		<h2>Add Supplier</h2>
 		<div class="input_fields">
 				<p>Supplier Id</p>

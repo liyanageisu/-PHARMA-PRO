@@ -1,3 +1,12 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+
+	 margin: 0px;
+	 padding: 0px;
+	 background:url(../img/loginbg4.jpg) no-repeat;
+	background-size: cover;
+
+}
 .search_by_name{
 	float: left;
 	margin-top: 30px; 
@@ -23,12 +32,16 @@ input[type="submit"]{
 	outline: none;
 	height: 30px;
 	width: 160px;
-	background-color: #127D93; 
+	background-color:none; 
+	color: black;
 	font-size: 18px;
 	border-radius: 10px;
 	cursor: pointer;
 	margin-bottom: 20px;
 	margin-left: 100px;
+	border: 1px solid black;
+	box-shadow: 3px 5px #2C3E50;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 input[type="submit"]:hover{
 	cursor: pointer;
@@ -68,7 +81,7 @@ tr:nth-child(even){
 	background-color: #f2f2f2
 }
 th{
-	background-color: dodgerblue;
+	background-color: #85929E;
 	color: black;
 }
 th, td{
@@ -79,4 +92,12 @@ th, td{
 }
 tr:hover{
 	background: #cbcbcb;
+}
+.error-msg h3{
+	text-align: center;
+	margin-left: 420px; 
+	color: #052C34;
+	width: 400px;
+	height: 20px;
+
 }

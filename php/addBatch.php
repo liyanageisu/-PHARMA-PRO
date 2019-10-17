@@ -20,8 +20,13 @@
 <head>
 	<title>Add batch</title>
 	<link rel="stylesheet" type="text/css" href="../css/addBatch.css">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 <body>
+		<div class="top">
+			<img src="../img/logo.png">
+			<h1>PHARMA-PRO</h1>
+		</div>
 	<form class="addBatch" method="post">
 		<h2>Add Batch</h2>
 	<div class="input-field">

@@ -23,7 +23,7 @@
 </head>
 <body>
 	<form class="addDrug" method="post">
-		<img src="../img/pharmacist.png">
+		<!--<img src="../img/pharmacist.png">-->
 		<h2>Add Drug</h2>
 		<div class="input_fields">
 				<p>Drug Id</p>

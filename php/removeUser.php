@@ -50,7 +50,7 @@
 							<td>".$rows['l_name']."</td>
 							<td>".$rows['u_name']."</td>
 							<td>".$rows['email']."</td>
-							<td>".$rows['telephone']."</td>
+							<td>".$rows['tp']."</td>
 							<td>".$rows['nic']."</td>
 							<td>".$rows['password']."</td>
 							<td>".$rows['type']."</td>

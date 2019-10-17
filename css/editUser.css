@@ -1,0 +1,51 @@
+body{
+	
+	margin: 0px;
+	padding: 0px;
+	background:url(../img/loginbg12.jpg) no-repeat;
+	background-size: cover;
+
+}
+table{
+	width: 50%;
+	border-collapse: collapse;
+	text-align: left;
+	margin-top: 100px;
+	margin-left: 150px;
+}
+tr{
+	border-bottom: 1px solid #cbcbcb;
+	font-size: 15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+th{
+	border: none;
+	height: 30px;
+	padding: 5px;
+	color: white;
+	background-color: #222;
+	font-size: 16px;
+}
+td{
+	border: none;
+	height: 30px;
+	padding: 5px;
+}
+tr:hover{
+	background: #F5F5F5;
+}
+input[type="submit"]{
+	outline: none;
+	border: none;
+	width: 80px;
+	height: 30px
+	background-color: #127D93; 
+	font-size: 18px;
+	border-radius: 3px;
+	cursor: pointer;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+input[type="submit"]:hover{
+	background: #94DAE8;
+	color: #000;
+}
