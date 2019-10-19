@@ -3,7 +3,7 @@ body{
 
 	 margin: 0px;
 	 padding: 0px;
-	 background:url(../img/loginbg2.jpg) no-repeat;
+	 background:url(../img/loginbg1.jpg) no-repeat;
 	background-size: cover;
 
 }
@@ -39,6 +39,7 @@ body{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
+	color: white;
 }
 .login-form .title{
 	height: 45%;
@@ -76,7 +77,7 @@ body{
 	border: none;
 	outline: none;
 	background:none;
-	color: #17202A;
+	color: white;
 	font-size: 18px;
 	width: 150px;
 	float: left;
